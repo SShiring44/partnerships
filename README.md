@@ -1,29 +1,25 @@
-# Work with HeronAI
-Welcome to the HeronAI public consulting repository! This repository is designed to streamline our work with consultants, ensuring they have access to essential resources, agreements, and guidelines.
+# Work with HeronAI – Disrupt an Industry and Earn Big
+Welcome to the HeronAI Partnership Consulting Hub! This space is designed to equip our consultants with everything they need—resources, agreements, and guidelines—to succeed.
 
-## Who We Are
-HeronAI is an AI-powered analytics platform built for mid-sized firms in FinTech, SaaS, and accounting. We simplify strategic growth and advisory reporting by consolidating disparate data sources, automating reporting, and generating actionable insights—all within minutes.
+## Why Join HeronAI?
+HeronAI is revolutionizing data analytics for mid-sized businesses in FinTech, SaaS, and accounting. We take the pain out of reporting by consolidating data, automating insights, and delivering actionable strategies—all in minutes, not weeks.
 
-We believe in making data analytics universally accessible so businesses can operate more efficiently, scale faster, and make better decisions without the complexity of traditional tools.
+This is your opportunity to be part of a massive industry shift and make great money while doing it. Our partners are closing high-value deals and helping businesses unlock smarter growth through AI-powered analytics.
 
-## How We Work with Consultants
-We collaborate with consultants to help drive strategic growth, product development, and market expansion. To ensure a smooth process, we provide access to key documents and resources:
+## What’s in It for You?
+✅ Work with a cutting-edge AI platform transforming business intelligence
+✅ Join a fast-growing team and make a real impact
+✅ Earn great commissions while helping businesses scale effortlessly
 
-## Consulting Resources  
+If you’re a sales-driven professional looking to change the game and be rewarded for it, you’re in the right place. Let’s build the future of data analytics together! 🚀
 
-- **Consulting Agreement & NDA** – Available for review in this repository.
-- **Sales Consultants, please review the Sales Consulting Agreement and NDA**
-- **Proof of Capability for Developers Only**  
-  - [HeronAI Infrastructure Proof of Capability](https://docs.google.com/document/d/11nPyaxOrc6XXy9YtdBRRQx0yOSXdl_PUhSocNKHrI-o/edit?tab=t.0#heading=h.dwo3nmpy6tq)  
-  - [HeronAI Transformer Proof of Capability Framework](https://docs.google.com/document/d/14loafhaDsMMFqt9TG4hPX-hw1Ly0D6vzNXWx4J2hDWo/edit?tab=t.0#heading=h.dwo3nmpy6tq)  
-  - [HeronAI Dashboard Development Proof of Capability Framework](https://docs.google.com/document/d/1QIM-osDGVH_DUaqn1hmT1yz-rqxETrTgteHjTtnN_yI/edit?pli=1&tab=t.0)  
-- **Timelines** – Provided during initial discussions to align expectations.  
+Key documents to help start your onboarding. 
+1. Review the Partnership Consulting Agreement - Available for review in this repository. Please review and sign.
+2. Review the NDA - Available for review in this repository. Please review and sign.
+3. Send signed files to Stacey.Shiring@heron-ai.com.
+4. You and Stacey will review and create a timeline for successful onboarding.
 
-Getting Started
-1. Review the Consulting Angreement
-2. Review the NDA
-3. Connect with HeronAI personelle to sign and finalize documentation
-4. Finalize timeline
+## More Than Just a Product—A Movement
+HeronAI isn’t just another analytics tool—it’s a paradigm shift in how businesses access and use data. We’re breaking down barriers to growth and innovation, making intelligence effortless so companies can make smarter, faster decisions. By joining our team, you’re not just selling a solution—you’re helping redefine the future of business analytics.
 
-HeronAI is more than just a product—it’s a movement towards effortless intelligence in business analytics. We are redefining how businesses access and use data, eliminating barriers to growth and innovation.
-
+Let’s build this future together! 🚀
